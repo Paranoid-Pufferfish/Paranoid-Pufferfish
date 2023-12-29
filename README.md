@@ -2,7 +2,7 @@
 
 Behold! From the mystical lands of Algeria doth emerge a wizard, a maestro of techno-magic, aged 18!
 
-### Mastering the Web Arts at [Crystal's Mystical Website](https://crystal.tilde.institute):
+### Mastering the Web Arts at [My Mystical Website](https://crystal.tilde.institute):
 - ✨ HTML, CSS, PHP
 - 🛠️ MySQL for crafting enchanted databases
 
